@@ -23,11 +23,11 @@ repository               : "fnuha/fnuha.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Faaizah Nuha"
   pronouns         : "she/her"  
   bio              : "Computer Graphics Masters student"
-  location         : "Atlanta"
+  location         : "Atlanta, Georgia"
   employer         : "Georgia Institute of Technology"
   uri              : # URL
   email            : "faaizah.nuha@gmail.com" 
@@ -54,7 +54,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : # "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with your Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -122,7 +122,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
