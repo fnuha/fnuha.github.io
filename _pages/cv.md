@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Experience"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,11 +11,13 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Computer Science, Computer Graphics specialization, Georgia Institute of Technology, 2027 (expected)
+  * Relevant Coursework: Computer Vision, Video Game Design, Data Visualization
+* B.S. in Computer Science, Oregon State University, 2025
+  * 3.98 GPA
+  * Relevant Coursework: Computer Graphics, Parallel Programming, High-Performance Computing, Data Structures, Algorithms, Operating Systems, Computer Architecture, Computer Networks
 
-Work experience
+<!-- Projects
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
@@ -30,18 +32,18 @@ Work experience
 * Summer 2015: Research Assistant
   * GitHub University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor Git -->
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: C++, C, Python, Assembly (x86, AVR), Verilog, JavaScript, Java
+* Tools and Environments:
+    * Computer Graphics: Vulkan, CUDA, OpenGL, Blender
+    * HPC/Hardware: OpenCL, HLSL, GLSL, MPI, SIMD, multithreading
+    * Code Management: Linux shell script, Windows Powershell, Git and Github
+    * Other:  MATLAB, Pytorch
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -51,14 +53,14 @@ Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
+Leadership
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
