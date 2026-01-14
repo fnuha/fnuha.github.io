@@ -1,9 +1,9 @@
 ---
-title: "OpenGL Shaders: Earth and Sun"
-excerpt: "Oregon State University CS450: Computer Graphics Final Project<br/><img src='/images/sunandearth.png'>"
+title: "Cafe Catastrophe"
+excerpt: "Georgia Institute of Technology CS6457: Video Game Design Final Project<br/><img src='/images/cafecatastrophe.png'>"
 collection: portfolio
 ---
 
-[![Demonstration](https://fnuha.github.io/images/sunandearth.png)](https://fnuha.github.io/images/portfolio-shaders_openGL.mp4)
+[![Demonstration](https://fnuha.github.io/images/cafecatastrophe.png)](https://fnuha.github.io/images/Cookiecat Cafecatastrophe Trailer-1.mp4)
 
-This is a computer graphics project based in OpenGL in C++ that demonstrates custom shader math and animation. This project was created for CS450: Computer Graphics at Oregon State University.
+This is a fully finished Unity game created for CS6457: Video Game Design at Georgia Institute of Technology. My personal contributions include character animation, movement, controls, and interaction with the environment, enemy behavior, and logo design and art.
