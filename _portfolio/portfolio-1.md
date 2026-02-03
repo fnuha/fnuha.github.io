@@ -1,6 +1,6 @@
 ---
 title: "Creating and Simulating Directable Fabric"
-excerpt: "Oregon State University Undergraduate Thesis<br/><img src='/images/thesis.png'>"
+excerpt: "Oregon State University Undergraduate Thesis<br/><img src='/images/fabricsim.gif'>"
 collection: portfolio
 ---
 
