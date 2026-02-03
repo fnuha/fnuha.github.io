@@ -1,6 +1,6 @@
 ---
-title: "OpenGL Shaders: Animated Ball Bouncing"
-excerpt: "Oregon State University CS450: Computer Graphics Project<br/><img src='/images/sunandearth.png'>"
+title: "OpenGL: Animated Ball Bouncing"
+excerpt: "Oregon State University CS450: Computer Graphics Project<br/><img src='/images/bouncingball.gif'>"
 collection: portfolio
 ---
 
